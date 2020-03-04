@@ -2,6 +2,7 @@ package com.cssl.adapter;
 /**
  * ±»ÊÊÅä¶ÔÏó
  * @author Administrator
+ * DDDD
  *
  */
 public class Adapter {
